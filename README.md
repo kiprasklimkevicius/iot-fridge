@@ -4,4 +4,4 @@
 
 ## Make sure to document progress in the final report document too
 
-## TODOL: Set up issues board to see what needs be done and what is done
+## TODO: Set up issues board to see what needs be done and what is done
